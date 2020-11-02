@@ -25,4 +25,3 @@ firebase.initializeApp(firebaseConfig);
 
 
 // Save the list to database
-
